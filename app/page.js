@@ -1,4 +1,8 @@
+// "use client"; this enables us to enable it to client side components. 
+
 import Image from 'next/image'
+
+//  localhost:3000/
 
 export default function Home() {
   return (
